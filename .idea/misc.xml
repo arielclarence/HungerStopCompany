@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/drawable-hdpi/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/activity_admin.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/activity_home_admin.xml" value="0.264" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/activity_home_user.xml" value="0.2" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/bottom_navigation_menu.xml" value="0.16" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/bottom_navigation_menu_user.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/fragment_add_admin.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/fragment_add_user.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/fragment_home_admin.xml" value="0.18704710144927536" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/fragment_home_user.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/fragment_list_admin.xml" value="0.10157041540020263" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/fragment_ranking_admin.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/layout/fragment_top_up_user.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/menu/bottom_menu_admin.xml" value="0.1" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.4" />
+        <entry key="..\:/MobileComputing/Proyek/app/src/main/res/menu/bottom_navigation_menu_user.xml" value="0.2351851851851852" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/activity_home_admin.xml" value="0.1743659420289855" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/activity_home_user.xml" value="0.1743659420289855" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/activity_register.xml" value="0.1743659420289855" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/beritaslayout.xml" value="0.25" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/beritasuserlayout.xml" value="0.25416666666666665" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/detaildonasilayout.xml" value="0.4" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/fragment_add_admin.xml" value="0.264" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/fragment_add_user.xml" value="0.264" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/fragment_detail_donasi_berita.xml" value="0.264" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/fragment_home_admin.xml" value="0.2" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/fragment_home_user.xml" value="0.264" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/fragment_list_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/fragment_ranking_admin.xml" value="0.2" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/fragment_sumbang_user.xml" value="0.264" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/fragment_top_up_user.xml" value="0.1743659420289855" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/rankinguserslayout.xml" value="0.264" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/layout/userslayout.xml" value="0.25416666666666665" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.209375" />
+        <entry key="..\:/MobileComputing/Proyekyangbenar/app/src/main/res/menu/bottom_navigation_menu_user.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

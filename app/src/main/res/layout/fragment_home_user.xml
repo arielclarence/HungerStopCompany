@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="15dp"
+    android:paddingTop="15dp"
+    tools:context=".Fragment_HomeUser">
+
+    <TextView
+        android:id="@+id/txtNamaUser"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:text="Welcome, Admin"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtSaldoUser"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:text="Saldo:  0"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtNamaUser2"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:text="List Berita:"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/RVberitauser"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
